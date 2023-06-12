@@ -20,7 +20,7 @@ timezone: Europe/London
 
 title: Rogier Noels # the main title
 
-tagline: My journey in DevOps. # it will display as the sub-title
+tagline: DevOps, mostly.. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -86,17 +86,17 @@ avatar: https://ca.slack-edge.com/T8AUB1YUF-ULQQQSW9H-a9b8591724ca-512
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
+    repo:  # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
+    repo: rog9876/rog9876.github.io.comments # <gh-username>/<repo>
     repo_id:
     category:
     category_id:
