@@ -97,9 +97,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: rog9876/rog9876.github.io.comments # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo_id: rog9876/rog9876.github.io.comments
+    category: rog9876/rog9876.github.io.comments
+    category_id: rog9876/rog9876.github.io.comments
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
