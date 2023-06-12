@@ -98,7 +98,7 @@ comments:
   giscus:
     repo: rog9876/rog9876.github.io.comments # <gh-username>/<repo>
     repo_id: rog9876/rog9876.github.io.comments
-    category: rog9876/rog9876.github.io.comments
+    category: Announcements
     category_id: rog9876/rog9876.github.io.comments
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
